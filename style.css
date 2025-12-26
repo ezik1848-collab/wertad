@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background: #FFFFFF;
+    haight: 1660px;
+}
+
+header, footer {
+    background-color: #C0C4FF;
+    height: 110px;
+}
+
+p {
+   width: 852px;
+height: 154px;
+left: 58px;
+top: 743px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+color: #000000;
+ position: absolute;
+}
+
+a {
+   position: absolute;
+width: 144px;
+height: 44px;
+left: 58px;
+top: 46px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-decoration-line: underline;
+color: #000000; 
+}
